@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    background: rgb(233, 255, 229);
+}
+
+.photo {
+    width: 210px;
+    height: 280px;
+    border-radius: 10px;
+    /* box-shadow: 1px 1px 5px rgb(62, 62, 62); */
+    margin: auto;
+}
+
+.info {
+    margin-bottom: 40px;
+    display: flex;
+}
+
+.info-text{
+    margin-left: 30px;
+}
+
+.container {
+    max-width: 550px;
+    margin: auto;
+}
+
+h1 {
+    margin: 20px;
+    text-align: center;
+}
+
+h3 {
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.goals {
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 15px;
+    background: white;
+    box-shadow: 0px 0px 10px #555;
+    padding: 0px 30px 20px 30px;
+    margin-bottom: 20px;
+}
+
+.time {
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 15px;
+    background: white;
+    box-shadow: 0px 0px 10px #555;
+    padding: 0px 30px 30px 30px;
+    margin-bottom: 20px;
+}
+
+.course {
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 15px;
+    background: white;
+    box-shadow: 0px 0px 10px #555;
+    padding: 0px 30px 30px 30px;
+    margin-bottom: 20px;
+}
+
+.contact {
+    text-align: center;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 15px;
+    background: white;
+    box-shadow: 0px 0px 10px #555;
+    padding: 0px 30px 30px 30px;
+    margin-bottom: 50px;
+}
+
+.table-2 th {
+    /* width: auto; */
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
+
+.table-1 {
+    width: 50%;
+    margin: auto;
+}
+
+.table-2 {
+    text-align: center;
+    margin: auto;
+    width: 450px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: blueviolet;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: yellowgreen;
+}
