@@ -1,5 +1,5 @@
 # Student-card
 
-##Моя работа
+Моя работа
 
 [Карточка студента](https://shamsudinbakaev.github.io/Student-card/)
